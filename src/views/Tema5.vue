@@ -4,8 +4,8 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 3
-      h1 Desarrollar y aplicar criterios de valoración de riesgos de seguridad en el contexto del negocio
+        span 5
+      h1 Aplicar herramientas para la valoración de riesgo de S.I.
 
 </template>
 
