@@ -23,44 +23,44 @@
       .tarjeta.bg-gradiente.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets//curso/temas/t3/img2.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/t3/img2.svg' alt='AvatarTop')
         h4.text-center Instaurado
 
       .tarjeta.bg-gradiente.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets//curso/temas/t3/img3.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/t3/img3.svg' alt='AvatarTop')
         h4.text-center Realizado
 
 
       .tarjeta.bg-gradiente.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets//curso/temas/t3/img4.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/t3/img4.svg' alt='AvatarTop')
         h4.text-center Operado
 
       .tarjeta.bg-gradiente.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets//curso/temas/t3/img5.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/t3/img5.svg' alt='AvatarTop')
         h4.text-center Monitoriado
 
       .tarjeta.bg-gradiente.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/t3/img6.svg' alt='AvatarTop')
         h4.text-center Revisado
 
       .tarjeta.bg-gradiente.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/t3/img7.svg' alt='AvatarTop')
         h4.text-center Mantenido
 
       .tarjeta.bg-gradiente.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/t3/img8.svg' alt='AvatarTop')
         h4.text-center Mejorado
 
 
