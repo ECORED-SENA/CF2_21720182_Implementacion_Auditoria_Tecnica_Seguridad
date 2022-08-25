@@ -60,6 +60,9 @@
   background: linear-gradient(343deg, rgba(97,140,235,0.2) 0%, rgba(217,171,244,0.2) 27%, rgba(131,210,241,0.2) 100%);
   border: 0
 
+.border-img-cus
+  border: 1px solid rgba(107, 63, 209, .15)
+
 .acordion__activo
   background: rgba(255,255,255, 0.2);
   background: linear-gradient(343deg, rgba(97,140,235,0.2) 0%, rgba(217,171,244,0.2) 27%, rgba(131,210,241,0.2) 100%);
@@ -67,6 +70,7 @@
 
 .img-infografica .img-infografica__item
   width: 5.5%;
+
 .bg-img-infografica
   background: #E9DFFC
 
@@ -84,3 +88,42 @@
 
 .bg-color-5
   background-color: rgba(41,154,230,0.25)
+
+
+.img-hover-cus:hover img
+  top: -5%
+
+.tarjeta-avatar>img
+  width: 90px;
+
+.tarjeta-avatar
+  padding-top: 50px;
+
+.tarjeta-avatar .tarjeta
+  width: 100%;
+
+.tarjeta.bg-gradiente
+  background: rgba(255,255,255, 0.2);
+  background: linear-gradient(343deg, rgba(97,140,235,0.2) 0%, rgba(217,171,244,0.2) 27%, rgba(131,210,241,0.2) 100%);
+  border: 1px solid rgba(107, 63, 209, .15)
+
+////// Backgrounds
+
+.bg_img_01, .bg_img_02, .bg_img_03, .bg_img_04, .bg_img_05, .bg_gray, .bg_grad_01, .bg_grad_02, .bg_grad_03, .bg_grad_04, .bg_grad_05
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    top: 0
+    left: - 3rem
+    width: calc( 100% + 6rem )
+    height: 100%
+
+.bg_img_01
+  &::before
+    background-image: url("../assets/curso/recursos/bg_img_01.svg")
+    background-repeat: no-repeat
+    background-position: top left
+    background-size: cover
