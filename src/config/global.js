@@ -122,51 +122,52 @@ export default {
   complementario: [
     {
       tema: 'Etapas del proceso de gestión de riesgos de S.I.',
-      referencia: 'Normas ISO. (s.f.). Norma ISO 27001. ',
+      referencia:
+        'Normas ISO. (s.f.). Norma ISO 27001. https://www.normas-iso.com/iso-27001/',
       tipo: 'Página web',
       link: 'https://www.normas-iso.com/iso-27001/',
     },
     {
       tema: 'Etapas del proceso de gestión de riesgos de S.I.',
       referencia:
-        'Ley 527 de 1999. Por medio de la cual se define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones. Agosto 21 de 1999. DO No. 43.673.',
+        'Ley 527 de 1999. Por medio de la cual se define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones. Agosto 21 de 1999. DO No. 43.673. http://www.secretariasenado.gov.co/senado/basedoc/ley_0527_1999.html',
       tipo: 'Página web',
-      descarga:
+      link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_0527_1999.html',
     },
     {
       tema:
         'Desarrollar y aplicar criterios de valoración de riesgos de seguridad en el contexto del negocio',
       referencia:
-        'Ley 1273 de 2009. Por medio de la cual se modifica el Código Penal, se crea un nuevo bien jurídico tutelado - denominado "de la protección de la información y de los datos" y se preservan integralmente los sistemas que utilicen las tecnologías de la información y las comunicaciones, entre otras disposiciones. Enero 5 de 2009. DO No.   47.223. ',
-      tipo: 'Página web',
-      descarga:
+        'Ley 1273 de 2009. Por medio de la cual se modifica el Código Penal, se crea un nuevo bien jurídico tutelado - denominado "de la protección de la información y de los datos" y se preservan integralmente los sistemas que utilicen las tecnologías de la información y las comunicaciones, entre otras disposiciones. Enero 5 de 2009. DO No.   47.223. https://www.sic.gov.co/recursos_user/documentos/normatividad/Ley_1273_2009.pdf',
+      tipo: 'PDF',
+      link:
         'https://www.sic.gov.co/recursos_user/documentos/normatividad/Ley_1273_2009.pdf',
     },
     {
       tema:
         'Desarrollar y aplicar criterios de valoración de riesgos de seguridad en el contexto del negocio',
       referencia:
-        'Ley Estatutaria 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. Octubre 17 de 2012. DO No. ',
+        'Ley Estatutaria 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. Octubre 17 de 2012. DO No. https://www.defensoria.gov.co/public/Normograma%202013_html/Normas/Ley_1581_2012.pdf',
       tipo: 'PDF',
-      descarga:
+      link:
         'https://www.defensoria.gov.co/public/Normograma%202013_html/Normas/Ley_1581_2012.pdf',
     },
     {
       tema:
         'Desarrollar y aplicar criterios de valoración de riesgos de seguridad en el contexto del negocio',
       referencia:
-        'Consejo Nacional de Política Económica y Social. (2011).  Lineamientos de política para ciberseguridad y ciberdefensa. CONPES.',
+        'Consejo Nacional de Política Económica y Social. (2011).  Lineamientos de política para ciberseguridad y ciberdefensa. CONPES. https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3701.pdf',
       tipo: 'PDF',
-      descarga:
+      link:
         'https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3701.pdf',
     },
     {
       tema: 'Valoración de riesgo de seguridad en el contexto del negocio',
       referencia:
-        'MinTIC. (s.f.). Seguridad y privacidad de la información. MinTIC. ',
+        'MinTIC. (s.f.). Seguridad y privacidad de la información. MinTIC. https://www.mintic.gov.co/gestionti/615/articles-5482_G7_Gestion_Riesgos.pdf',
       tipo: 'PDF',
-      descarga:
+      link:
         'https://www.mintic.gov.co/gestionti/615/articles-5482_G7_Gestion_Riesgos.pdf',
     },
   ],
@@ -188,11 +189,11 @@ export default {
     },
     {
       termino: 'ICONTEC',
-      significado: 'Instituto Colombiano de Normas Técnicas y Certificación',
+      significado: ' Instituto Colombiano de Normas Técnicas y Certificación',
     },
     {
       termino: 'ISO',
-      significado: 'Organización Internacional de Normalización.',
+      significado: ' Organización Internacional de Normalización.',
     },
     {
       termino: '<em>Log</em>',
@@ -212,7 +213,7 @@ export default {
     {
       termino: 'Seguridad informática',
       significado:
-        'Gómez (2006) define la seguridad informática como cualquier medida que impida la ejecución de operaciones no autorizadas sobre un sistema o red informática, cuyos efectos puedan conllevar daños sobre la información, equipo o software. Por su parte, Kissel (2012) la define como la protección de información y sistemas de información de acceso no autorizado.',
+        ' Gómez (2006) define la seguridad informática como cualquier medida que impida la ejecución de operaciones no autorizadas sobre un sistema o red informática, cuyos efectos puedan conllevar daños sobre la información, equipo o <i>software</i>. Por su parte, Kissel (2012) la define como la protección de información y sistemas de información de acceso no autorizado.',
     },
     {
       termino: 'SGSI',
@@ -251,6 +252,12 @@ export default {
       referencia:
         'Kissel, R. (2012). Glossary of key information security terms. National Institute of Standards and Technology.',
       link: '',
+    },
+    {
+      referencia:
+        'Ley Estatutaria 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. Octubre 17 de 2012. DO No. ',
+      link:
+        'https://www.defensoria.gov.co/public/Normograma%202013_html/Normas/Ley_1581_2012.pdf',
     },
     {
       referencia:
