@@ -4,9 +4,11 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
     .row.justify-content-center
-      .col-lg-10.mb-5
+      .col-lg-8.col-md-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Síntesis")
+
+    .row.justify-content-center.mt-4
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
