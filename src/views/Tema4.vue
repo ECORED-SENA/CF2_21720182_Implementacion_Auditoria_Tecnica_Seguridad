@@ -246,7 +246,7 @@
             | Escasez de personal.
           li.m-0
             i.fas.fa-database
-            | Uso ilegal de software.
+            | Uso ilegal de <i>software</i>.
 
         p.mt-4 Por otra parte, las vulnerabilidades se dan en muchas empresas por factores básicos como:
 

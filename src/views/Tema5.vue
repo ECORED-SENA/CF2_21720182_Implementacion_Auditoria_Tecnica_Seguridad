@@ -38,17 +38,17 @@
 
 
 
-    .px-4.mb-4
+    .mb-4
       ul.lista-ul--color.m-0.p-0
         li.m-2
           i.fas.fa-database
-          | Priorizar los riesgos identificados.
+          | Si la probabilidad del riesgo es 1 (baja) y el impacto es 5 (bajo) se multiplica 1x5 y se obtiene como resultado 5.
         li.m-2
           i.fas.fa-database
-          | Evaluar la probabilidad y el impacto.
+          | Se sigue aplicando la operación matemática a la tabla, multiplicando (valor de la probabilidad x valor del impacto), obteniendo valores de 5, 10, 15, 10, 20, 30, 20, 40 y 60.
         li.m-2
           i.fas.fa-database
-          | Representar gráficamente los riesgos evaluados.
+          | Los valores 30, 40 y 60 se encuentran en el sector rojo, mostrando así altos niveles de riesgos que podría tener la organización.
 
 
     .row(data-aos="zoom-in").my-5.justify-content-center
@@ -379,7 +379,7 @@
               td Implementar cifrado de datos y socializar con los trabajadores, las consecuencias y precauciones que se debe tener para no filtrar la información.
             tr
               th Virus/ataques cibernéticos
-              td Instalar software antivirus en todos los equipos de la empresa.
+              td Instalar <i>software</i> antivirus en todos los equipos de la empresa.
 
 
     p.mb-4 Por otra parte, también es importante mencionar que para la valoración de riesgos existen plataformas pagas como:

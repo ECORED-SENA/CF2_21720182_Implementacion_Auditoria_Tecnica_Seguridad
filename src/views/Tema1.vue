@@ -69,6 +69,13 @@
         .col-lg-4
           figure
             img(src='@/assets/curso/temas/t1/5.png', alt='Persona chuleando casilla')
+      .row(titulo="Actuar").justify-content-center.align-items-center
+        .col-lg-7
+          p.mb-4 La organización deberá, cada cierto tiempo, aplicar las mejoras en el SGSI y comunicar dichas actualizaciones a su personal.
+        .col-lg-4
+          figure
+            img(src='@/assets/curso/temas/t1/8.png', alt='Persona chuleando casilla')
+
 
 
 

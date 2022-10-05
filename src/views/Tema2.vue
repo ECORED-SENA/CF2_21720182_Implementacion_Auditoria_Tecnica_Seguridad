@@ -190,7 +190,7 @@
         .bg-color-5.p-4
           p.text-center La seguridad de datos también protege los datos de una posible corrupción.
 
-          p.text-center Para ampliar la información se invita  a consultar la norma #[b ISO 27001], que se encuentra en el material complementario.
+          p.text-center Para ampliar la información se invita  a consultar la  #[b Norma ISO 27001], que se encuentra en el material complementario.
 </template>
 
 <script>
