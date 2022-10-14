@@ -129,33 +129,33 @@
       .col-lg-12
         .row.justify-content-center
           .col
-            .caja
+            .caja.mb-4
               ul.lista-ul--color.m-0.p-0
                 li.m-0
                   i.fas.fa-database
                   | Rara vez
 
           .col
-            .caja
+            .caja.mb-4
               ul.lista-ul--color.m-0.p-0
                 li.m-0
                   i.fas.fa-database
                   | Improbable
           .col
-            .caja
+            .caja.mb-4
               ul.lista-ul--color.m-0.p-0
                 li.m-0
                   i.fas.fa-database
                   | Posible
           .col
-            .caja
+            .caja.mb-4
               ul.lista-ul--color.m-0.p-0
                 li.m-0
                   i.fas.fa-database
                   | Probable
 
           .col
-            .caja
+            .caja.mb-4
               ul.lista-ul--color.m-0.p-0
                 li.m-0
                   i.fas.fa-database
@@ -167,33 +167,33 @@
       .col-lg-12
         .row.justify-content-center
           .col
-            .caja
+            .caja.mb-4
               ul.lista-ul--color.m-0.p-0
                 li.m-0
                   i.fas.fa-database
                   | Insignificante
 
           .col
-            .caja
+            .caja.mb-4
               ul.lista-ul--color.m-0.p-0
                 li.m-0
                   i.fas.fa-database
                   | Menor
           .col
-            .caja
+            .caja.mb-4
               ul.lista-ul--color.m-0.p-0
                 li.m-0
                   i.fas.fa-database
                   | Moderado
           .col
-            .caja
+            .caja.mb-4
               ul.lista-ul--color.m-0.p-0
                 li.m-0
                   i.fas.fa-database
                   | Mayor
 
           .col
-            .caja
+            .caja.mb-4
               ul.lista-ul--color.m-0.p-0
                 li.m-0
                   i.fas.fa-database
@@ -388,14 +388,14 @@
       .col-lg-5
         .tarjeta.bg-gradiente-2.p-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-3
+            .col-5.col-md-3
               img(src="@/assets/curso/temas/t5/img11.svg", style="min-width: 118px; height: 52px;")
-            .col-9
+            .col-7.col-md-9
               .row.justify-content-between.align-items-center
-                .col
+                .col.d-none.d-md-block
                   .px-4
                     h4.texto-blanco Isotools
-                .col-sm-auto
+                .col-sm-auto.mt-
                   a.boton.color-acento-botones.texto-blanco(href="https://www.isotools.org/" target="_blank")
                     span Ir a sitio web
                     i.fas.fa-link
@@ -403,11 +403,11 @@
       .col-lg-5
         .tarjeta.bg-gradiente-2.p-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-3
+            .col-5.col-md-3
               img(src="@/assets/curso/temas/t5/img12.svg", style="min-width: 118px; height: 52px;")
-            .col
+            .col-7.col-md-9
               .row.justify-content-between.align-items-center
-                .col
+                .col.d-none.d-md-block
                   .px-4
                     h4.texto-blanco Enisa
                 .col-sm-auto

@@ -43,7 +43,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/t3/img5.svg' alt='AvatarTop')
-        h4.text-center Monitoriado
+        h4.text-center Monitoreado
 
       .tarjeta.bg-gradiente.p-4
         .row.justify-content-center.mb-3

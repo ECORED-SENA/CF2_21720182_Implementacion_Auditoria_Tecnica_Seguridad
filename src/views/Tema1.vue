@@ -125,13 +125,14 @@
                 i.fas.fa-database
                 | Plan de mejora-tratamiento del riesgo.
 
-          .tarjeta.bg-img-infografica.p-3(x="15%" y="85%" numero="+")
+
+          .tarjeta.bg-img-infografica.p-3(x="85%" y="85%" numero="+")
             ul.lista-ul--color
               li.mb-4
                 i.fas.fa-database
                 | Monitorear los riesgos eventuales.
 
-          .tarjeta.bg-img-infografica.p-3(x="85%" y="85%" numero="+")
+          .tarjeta.bg-img-infografica.p-3(x="15%" y="85%" numero="+")
             ul.lista-ul--color
               li.mb-4
                 i.fas.fa-database

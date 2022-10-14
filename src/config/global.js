@@ -122,15 +122,14 @@ export default {
   complementario: [
     {
       tema: 'Etapas del proceso de gestión de riesgos de S.I.',
-      referencia:
-        'Normas ISO. (s.f.). Norma ISO 27001. https://www.normas-iso.com/iso-27001/',
+      referencia: 'Normas ISO. (s.f.). Norma ISO 27001.',
       tipo: 'Página web',
       link: 'https://www.normas-iso.com/iso-27001/',
     },
     {
       tema: 'Etapas del proceso de gestión de riesgos de S.I.',
       referencia:
-        'Ley 527 de 1999. Por medio de la cual se define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones. Agosto 21 de 1999. DO No. 43.673. http://www.secretariasenado.gov.co/senado/basedoc/ley_0527_1999.html',
+        'Ley 527 de 1999. Por medio de la cual se define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones. Agosto 21 de 1999. DO No. 43.673.',
       tipo: 'Página web',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_0527_1999.html',
@@ -139,7 +138,7 @@ export default {
       tema:
         'Desarrollar y aplicar criterios de valoración de riesgos de seguridad en el contexto del negocio',
       referencia:
-        'Ley 1273 de 2009. Por medio de la cual se modifica el Código Penal, se crea un nuevo bien jurídico tutelado - denominado "de la protección de la información y de los datos" y se preservan integralmente los sistemas que utilicen las tecnologías de la información y las comunicaciones, entre otras disposiciones. Enero 5 de 2009. DO No.   47.223. https://www.sic.gov.co/recursos_user/documentos/normatividad/Ley_1273_2009.pdf',
+        'Ley 1273 de 2009. Por medio de la cual se modifica el Código Penal, se crea un nuevo bien jurídico tutelado - denominado "de la protección de la información y de los datos" y se preservan integralmente los sistemas que utilicen las tecnologías de la información y las comunicaciones, entre otras disposiciones. Enero 5 de 2009. DO No.   47.223.',
       tipo: 'PDF',
       link:
         'https://www.sic.gov.co/recursos_user/documentos/normatividad/Ley_1273_2009.pdf',
@@ -148,16 +147,16 @@ export default {
       tema:
         'Desarrollar y aplicar criterios de valoración de riesgos de seguridad en el contexto del negocio',
       referencia:
-        'Ley Estatutaria 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. Octubre 17 de 2012. DO No. https://www.defensoria.gov.co/public/Normograma%202013_html/Normas/Ley_1581_2012.pdf',
+        'Ley Estatutaria 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. Octubre 17 de 2012. DO No.',
       tipo: 'PDF',
       link:
-        'https://www.defensoria.gov.co/public/Normograma%202013_html/Normas/Ley_1581_2012.pdf',
+        'https://www.unicauca.edu.co/versionP/sites/default/files/files/LEY_1581_DE_2012.pdf',
     },
     {
       tema:
         'Desarrollar y aplicar criterios de valoración de riesgos de seguridad en el contexto del negocio',
       referencia:
-        'Consejo Nacional de Política Económica y Social. (2011).  Lineamientos de política para ciberseguridad y ciberdefensa. CONPES. https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3701.pdf',
+        'Consejo Nacional de Política Económica y Social. (2011).  Lineamientos de política para ciberseguridad y ciberdefensa. CONPES.',
       tipo: 'PDF',
       link:
         'https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3701.pdf',
@@ -198,7 +197,7 @@ export default {
     {
       termino: '<em>Log</em>',
       significado:
-        'Es un registro oficial de eventos durante un periodo de tiempo en particular. Para los profesionales en seguridad informática un log es usado para registrar datos o información sobre quién, qué, cuándo, dónde y por qué <em>(who, what, when, where y why, W5)</em> un evento ocurre para un dispositivo en particular o aplicación. La mayoría de los <em>log</em> son almacenados o desplegados en el formato estándar, el cual es un conjunto de caracteres para dispositivos comunes y aplicaciones. De esta forma, cada <em>log</em> generado por un dispositivo en particular puede ser leído y desplegado en otro diferente, a su vez, la palabra <em>log</em> se relaciona con el término evidencia digital. Un tipo de evidencia física construida de campos magnéticos y pulsos electrónicos que pueden ser recolectados y analizados con herramientas y técnicas especiales, lo que implica la lectura del <em>log</em> y deja al descubierto la actividad registrada en el mismo.',
+        'Es un registro oficial de eventos durante un periodo de tiempo en particular. Para los profesionales en seguridad informática un <em>log</em> es usado para registrar datos o información sobre quién, qué, cuándo, dónde y por qué <em>(who, what, when, where y why, W5)</em> un evento ocurre para un dispositivo en particular o aplicación. La mayoría de los <em>log</em> son almacenados o desplegados en el formato estándar, el cual es un conjunto de caracteres para dispositivos comunes y aplicaciones. De esta forma, cada <em>log</em> generado por un dispositivo en particular puede ser leído y desplegado en otro diferente, a su vez, la palabra <em>log</em> se relaciona con el término evidencia digital. Un tipo de evidencia física construida de campos magnéticos y pulsos electrónicos que pueden ser recolectados y analizados con herramientas y técnicas especiales, lo que implica la lectura del <em>log</em> y deja al descubierto la actividad registrada en el mismo.',
     },
     {
       termino: 'Redes',
@@ -257,7 +256,7 @@ export default {
       referencia:
         'Ley Estatutaria 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. Octubre 17 de 2012. DO No. ',
       link:
-        'https://www.defensoria.gov.co/public/Normograma%202013_html/Normas/Ley_1581_2012.pdf',
+        'https://www.unicauca.edu.co/versionP/sites/default/files/files/LEY_1581_DE_2012.pdf',
     },
     {
       referencia:
