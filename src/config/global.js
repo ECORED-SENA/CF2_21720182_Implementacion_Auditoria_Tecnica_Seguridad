@@ -164,7 +164,7 @@ export default {
     {
       tema: 'Valoración de riesgo de seguridad en el contexto del negocio',
       referencia:
-        'MinTIC. (s.f.). Seguridad y privacidad de la información. MinTIC. https://www.mintic.gov.co/gestionti/615/articles-5482_G7_Gestion_Riesgos.pdf',
+        'MinTIC. (s.f.). Seguridad y privacidad de la información. MinTIC.',
       tipo: 'PDF',
       link:
         'https://www.mintic.gov.co/gestionti/615/articles-5482_G7_Gestion_Riesgos.pdf',
